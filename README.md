@@ -6,7 +6,7 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 - [Info](#info)
 - [Tutorial](#tutorial)
 - [Copyright](#copy)
-
+<br><br>
 ## Info
 
 - A simple "extension" that when you click on it verifies the website open on Trustpilot.<br>
@@ -14,7 +14,7 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 
 - index.html is the page to configurate the extension.<br>
   index.html è la pagina per configurare l'estensione.
-  
+  <br><br>
 ## Tutorial
 
 - Enable bookmars bar in Chrome<br>
