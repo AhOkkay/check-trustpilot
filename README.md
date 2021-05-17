@@ -50,4 +50,4 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
   [Video](https://youtu.be/lnh8YHaJWxI)
 
 <br><br>
-<a name="copy">© 2021 [pup](https://pup.altervista.org), isn't possible to public or copy/implement on other website.</a>
+<center><a name="copy">© 2021 [pup](https://pup.altervista.org), isn't possible to public or copy/implement on other website.</a></center>
