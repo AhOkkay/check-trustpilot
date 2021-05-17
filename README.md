@@ -9,7 +9,6 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 - [Italiano](#italiano)
   - [Info](#info)
   - [Tutorial](#tutorial)
-<br>
 - [Copyright](#copy)
 <br><br>
 #English
