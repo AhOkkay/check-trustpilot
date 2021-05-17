@@ -13,13 +13,13 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 
 <br><br>
 # English :gb:
-## Info
+## Info :information_source:	
 
 - A simple "extension" that when you click on it verifies the website open on Trustpilot.
 
 - index.html is the page to configurate the extension.
   <br><br>
-## Tutorial
+## Tutorial :movie_camera:	
 
 - Enable bookmars bar in Chrome<br>
   [Video :clapper:](https://youtu.be/bgVlQYXG1X)
@@ -32,13 +32,13 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 
 <br><br>
 # Italiano :it:	
-## Info
+## Info :information_source:	
 
 - Una semplice "estensione" che verifica il sito aperto su Trustpilot quando vi si clicca sopra.
 
 - index.html è la pagina per configurare l'estensione.
   <br><br>
-## Tutorial
+## Tutorial :movie_camera:	
 
 - Abilitare barra preferiti di Chrome<br>
   [Video :clapper:](https://youtu.be/bgVlQYXG1X)
