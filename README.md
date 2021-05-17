@@ -1,6 +1,6 @@
 # Check Trustpilot extension
 
-Official website: https://pup.altervista.org/utility/check-trustpilot/
+:globe_with_meridians: Official website: https://pup.altervista.org/utility/check-trustpilot/
 
 <b>Menu</b>
 - [English](#english)
