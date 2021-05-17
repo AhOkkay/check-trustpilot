@@ -12,7 +12,7 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 - [Copyright](#copy)
 
 <br><br>
-# English
+# English :gb:
 ## Info
 
 - A simple "extension" that when you click on it verifies the website open on Trustpilot.
@@ -22,16 +22,16 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 ## Tutorial
 
 - Enable bookmars bar in Chrome<br>
-  [Video](https://youtu.be/bgVlQYXG1X)
+  [Video :clapper:](https://youtu.be/bgVlQYXG1X)
 
 - Configurate the extension<br>
-  [Video](https://youtu.be/MpfvjQeF3W8)
+  [Video :clapper:](https://youtu.be/MpfvjQeF3W8)
   
 - Use the extension<br>
-  [Video](https://youtu.be/lnh8YHaJWxI)
+  [Video :clapper:](https://youtu.be/lnh8YHaJWxI)
 
 <br><br>
-# Italiano
+# Italiano :it:	
 ## Info
 
 - Una semplice "estensione" che verifica il sito aperto su Trustpilot quando vi si clicca sopra.
@@ -41,13 +41,13 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 ## Tutorial
 
 - Abilitare barra preferiti di Chrome<br>
-  [Video](https://youtu.be/bgVlQYXG1X)
+  [Video :clapper:](https://youtu.be/bgVlQYXG1X)
 
 - Configurare l'estensione<br>
-  [Video](https://youtu.be/MpfvjQeF3W8)
+  [Video :clapper:](https://youtu.be/MpfvjQeF3W8)
   
 - Utilizzare l'estensione<br>
-  [Video](https://youtu.be/lnh8YHaJWxI)
+  [Video :clapper:](https://youtu.be/lnh8YHaJWxI)
 
 <br><br>
 <a name="copy">© 2021 [pup](https://pup.altervista.org), isn't possible to public or copy/implement on other website.</a>
