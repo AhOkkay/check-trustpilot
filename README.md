@@ -2,6 +2,10 @@
 
 Official website: https://pup.altervista.org/utility/check-trustpilot/
 
+- [Info](#info)
+- [Tutorial](#tutorial)
+- [Copyright](#copy)
+
 ## Info
 
 - A simple "extension" that when you click on it verifies the website open on Trustpilot.<br>
@@ -25,4 +29,4 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
   [Video](https://youtu.be/lnh8YHaJWxI)
 
 
-© 2021 pup (https://pup.altervista.org), isn't possible to public or copy/implement on other website.
+<a name="copy">© 2021 [pup](https://pup.altervista.org), isn't possible to public or copy/implement on other website.</a>
