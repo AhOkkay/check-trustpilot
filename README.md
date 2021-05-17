@@ -1,4 +1,4 @@
-# check-trustpilot
+# Check Trustpilot extension #
 © 2021 pup (pup.altervista.org), isn't possible to public or copy/implement on other website.
 ==============================================================
 ====================== Official website ======================
