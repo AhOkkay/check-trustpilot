@@ -2,7 +2,7 @@
 
 :globe_with_meridians: Official website: https://pup.altervista.org/utility/check-trustpilot/
 
-<b>Menu</b>
+## Menu :clipboard:	
 - [English](#english)
   - [Info](#info)
   - [Tutorial](#tutorial)
