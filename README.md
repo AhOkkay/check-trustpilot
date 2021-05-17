@@ -10,5 +10,8 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 - index.html is the page to configurate the extension.
 
   index.html è la pagina per configurare l'estensione.
+  
+## Tutorial
+
 
 © 2021 pup (https://pup.altervista.org), isn't possible to public or copy/implement on other website.
