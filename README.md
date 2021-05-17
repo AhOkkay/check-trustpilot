@@ -27,6 +27,5 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 - Use the extension<br>
   Utilizzare l'estensione<br>
   [Video](https://youtu.be/lnh8YHaJWxI)
-
-
+<br><br>
 <a name="copy">© 2021 [pup](https://pup.altervista.org), isn't possible to public or copy/implement on other website.</a>
