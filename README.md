@@ -3,9 +3,9 @@
 Official website: https://pup.altervista.org/utility/check-trustpilot/
 
 
-A simple "extension" that when you click on it verifies the website open on Trustpilot. 
+- A simple "extension" that when you click on it verifies the website open on Trustpilot. 
 
-Una semplice "estensione" che verifica il sito aperto su Trustpilot quando vi si clicca sopra.
+  Una semplice "estensione" che verifica il sito aperto su Trustpilot quando vi si clicca sopra.
 
 index.html is the page to configurate the extension.
 //
