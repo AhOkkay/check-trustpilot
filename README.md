@@ -14,7 +14,7 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 
 - Enable bookmars bar in Chrome<br>
   Abilitare barra preferiti di Chrome<br>
-  (Video https://youtu.be/bgVlQYXG1XM)
+  [Video https://youtu.be/bgVlQYXG1XM]
 
 - Configurate the extension<br>
   Configurare l'estensione<br>
