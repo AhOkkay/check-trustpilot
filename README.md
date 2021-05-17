@@ -17,7 +17,7 @@
 
 - A simple "extension" that when you click on it verifies the website open on Trustpilot.
 
-- index.html is the page to configurate the extension.
+- [index.html](https://github.com/AhOkkay/check-trustpilot/blob/main/index.html) is the page to configurate the extension.
   <br><br>
 ## Tutorial :movie_camera:	
 
@@ -36,7 +36,7 @@
 
 - Una semplice "estensione" che verifica il sito aperto su Trustpilot quando vi si clicca sopra.
 
-- index.html è la pagina per configurare l'estensione.
+- [index.html](https://github.com/AhOkkay/check-trustpilot/blob/main/index.html) è la pagina per configurare l'estensione.
   <br><br>
 ## Tutorial :movie_camera:	
 
