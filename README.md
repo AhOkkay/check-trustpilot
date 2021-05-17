@@ -11,7 +11,7 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
   - [Tutorial](#tutorial)
 - [Copyright](#copy)
 <br><br>
-<center># English</center>
+<center><h1>English</h1></center>
 ## Info
 
 - A simple "extension" that when you click on it verifies the website open on Trustpilot.
@@ -29,7 +29,7 @@ Official website: https://pup.altervista.org/utility/check-trustpilot/
 - Use the extension<br>
   [Video](https://youtu.be/lnh8YHaJWxI)
 
-<center># Italiano</center>
+<center><h1>Italiano</h1></center>
 ## Info
 
 - Una semplice "estensione" che verifica il sito aperto su Trustpilot quando vi si clicca sopra.
