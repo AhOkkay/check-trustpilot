@@ -1,11 +1,6 @@
-# Check Trustpilot extension #
-© 2021 pup (pup.altervista.org), isn't possible to public or copy/implement on other website.
-==============================================================
-====================== Official website ======================
-== ******************************************************** ==
-== * https://pup.altervista.org/utility/check-trustpilot/ * ==
-== ******************************************************** ==
-==============================================================
+# Check Trustpilot extension
+
+Official website: https://pup.altervista.org/utility/check-trustpilot/
 
 -
 
@@ -22,3 +17,5 @@ Una semplice "estensione" che verifica il sito aperto su Trustpilot quando vi si
 index.html is the page to configurate the extension.
 //
 index.html è la pagina per configurare l'estensione.
+
+© 2021 pup (pup.altervista.org), isn't possible to public or copy/implement on other website.
