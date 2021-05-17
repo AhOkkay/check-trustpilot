@@ -2,6 +2,7 @@
 
 Official website: https://pup.altervista.org/utility/check-trustpilot/
 
+## Info
 
 - A simple "extension" that when you click on it verifies the website open on Trustpilot.<br>
   Una semplice "estensione" che verifica il sito aperto su Trustpilot quando vi si clicca sopra.
