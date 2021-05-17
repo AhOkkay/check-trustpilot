@@ -2,7 +2,7 @@
 
 Official website: https://pup.altervista.org/utility/check-trustpilot/
 
-#### Menu
+<b>Menu</b>
 - [Info](#info)
 - [Tutorial](#tutorial)
 - [Copyright](#copy)
