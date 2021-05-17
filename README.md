@@ -3,11 +3,10 @@
 Official website: https://pup.altervista.org/utility/check-trustpilot/
 
 <b>Menu</b>
-- English
+- [English](#english)
   - [Info](#info)
   - [Tutorial](#tutorial)
-<br>
-- Italiano
+- [Italiano](#italiano)
   - [Info](#info)
   - [Tutorial](#tutorial)
 <br>
